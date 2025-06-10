@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**TomWestphal/TomWestphal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on my DCI course
 - 🌱 I’m currently learning new tech stuff :p
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tom.westphal1999@outlook.de
 - 😄 Pronouns: Im/Him
 - ⚡ Fun fact: I like turtles
--->
+
