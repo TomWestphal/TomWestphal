@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my DCI course
 - 🌱 I’m currently learning new tech stuff :p
-- 👯 I’m looking to collaborate on having fun learning  new tech stuff
+- 👯 I’m looking to collaborate on "having fun learning new tech stuff"
 - 💬 Ask me about tech, gaming and nerd stuff
 - 📫 How to reach me: tom.westphal1999@outlook.de
 - 😄 Pronouns: He/Him
